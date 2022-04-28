@@ -1,8 +1,8 @@
 //
 //  main.c
-//  C1
+//  位运算符
 //
-//  Created by 紫川秀 on 2022/4/17.
+//  Created by 紫川秀 on 2022/4/28.
 //
 
 #include <stdio.h>
